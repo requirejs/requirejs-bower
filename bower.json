@@ -10,5 +10,8 @@
   "keywords": [
     "AMD"
   ],
-  "license": "new BSD, and MIT"
+  "license": [
+    "BSD-3-Clause",
+    "MIT"
+  ]
 }
